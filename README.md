@@ -62,7 +62,7 @@ Navigate to `localhost:3000`
 
 A different implementation based on pygame can be found in the `pygame` branch.
 
-Made with ❤️, lots of ☕️, and lack of 🛌  
+Made with ❤️, lots of ☕️, and lack of 🛌 (and knowledge)
 Published under CreativeCommons BY-NC-SA 4.0
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
